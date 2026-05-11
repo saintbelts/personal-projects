@@ -1,11 +1,3 @@
-/*
-4. Sumatoria de 1/1 + 1⁄2 + 1/3 + 1⁄4 + 1/5 + 1/6 + 1/7 +... + 1/n,  el limite se le 
-solicita al usuario. 
- 
-Escriba el número para sumatoria: 6 
-Σ= 1/1 + 1⁄2 + 1/3 + 1⁄4 + 1/5 + 1/6.  
-Resultado: 2.45
-*/
 public class Fractions_Summation {
     public static void main (String[] args) {
         String option = "Y";
