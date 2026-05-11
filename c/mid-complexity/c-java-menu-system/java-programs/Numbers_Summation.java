@@ -1,12 +1,3 @@
-/*
-3. Sumatoria encontrar la sumatoria de una serie de números, el limite se le solicita al 
-usuario. 
- 
-Escriba el número para sumatoria: 8 
-Resultado: 36 
- 
-Σ= 1 + 2 + 3 +4 +5 + 6 + 7 +8 
-*/
 import java.util.Scanner;
 public class Numbers_Summation {
     public static void main (String[] args) {
